@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOPMSUnity", "AOPMSUnity\AOPMSUnity.csproj", "{BEF603CB-1CB4-452B-AA0E-2428A5194B14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEF603CB-1CB4-452B-AA0E-2428A5194B14}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{BEF603CB-1CB4-452B-AA0E-2428A5194B14}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{BEF603CB-1CB4-452B-AA0E-2428A5194B14}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{BEF603CB-1CB4-452B-AA0E-2428A5194B14}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A019A04-3CAA-4990-A191-74E750B50E11}
+	EndGlobalSection
+EndGlobal
